@@ -54,7 +54,7 @@ killall -SIGUSR2 waybar
 | `network` | Wi-Fi / Ethernet status |
 | `custom/<script-name>` | <what the script in scripts/ does> |
 
-#Music player controls
+## Music player controls
 The media module supports mouse interactions:
 
 | Action | Description |
