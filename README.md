@@ -54,6 +54,15 @@ killall -SIGUSR2 waybar
 | `network` | Wi-Fi / Ethernet status |
 | `custom/<script-name>` | <what the script in scripts/ does> |
 
+#Music player controls
+The media module supports mouse interactions:
+
+| Action | Description |
+|---|---|
+| `left-click` | Pause And Play |
+| `right-click` | Change To Next Music |
+| `wheel` | Change To Previous |
+
 ## Customization
 
 - Colors and spacing: edit `style.css`
