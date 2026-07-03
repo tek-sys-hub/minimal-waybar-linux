@@ -2,7 +2,7 @@
 
 A minimal, clean [Waybar](https://github.com/Alexays/Waybar) configuration for Linux — built for [Sway / Hyprland / <your compositor>].
 
-![screenshot](./screenshots/Untitled design.png)
+![Waybar screenshot](./screenshots/Untitled%20design.png)
 <!-- Add a screenshot of your bar here. This is the single highest-impact thing you can add — people judge waybar configs by looks first. -->
 
 ## Features
